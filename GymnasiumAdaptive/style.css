@@ -1,0 +1,59 @@
+.greyText{
+    color: darkgrey;
+}
+#First{
+    font-weight: bold;
+}
+.signin  {
+    display: block;
+    margin-top: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px 50px;
+
+}
+.main>a{
+    text-decoration: none;
+}
+.signin span {
+    text-transform: uppercase;
+    padding-left: 200px;
+    color: black;
+}
+#background{
+    border: 100px solid grey;
+}
+#main{
+    width: 45%;
+    float: left;
+    margin: -5px;
+}
+#fix{
+    background-image: url("photo.jpg");
+    width: 49%;
+    float: right;
+    height: 908px;
+    overflow: hidden;
+    margin-right: -8px;
+    margin-top: -9px;
+}
+a{
+    text-decoration: none;
+}
+span{
+    margin-right: 16px;
+}
+ #First , .greyText , .signin , h1{
+    margin-left: 70px;
+}
+
+.fa-google-plus-g{
+    color: red;
+}
+.fa-facebook-f{
+    color: blue;
+}
+.fa-twitter{
+    color: #1DA1F2;
+}
+
